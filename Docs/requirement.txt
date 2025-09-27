@@ -1,9 +1,9 @@
 ╔════════════════════════════════════════════════════════════════════╗
-║                  Project: Time Series Breakdown of Retail Sales     ║
-║                 Description: Required Python packages for cleaning, ║
-║              analyzing, visualizing, and forecasting sales trends.  ║
-║                                                                     ║
-║ Author: Andrew Wageh Fahmy                                          ║
+║          Project: Time Series Breakdown of Retail Sales            ║
+║          Description: Required Python packages for cleaning,       ║
+║          analyzing, visualizing, and forecasting sales trends.     ║
+║                                                                    ║
+║ Author: Andrew Wageh Fahmy                                         ║
 ╚════════════════════════════════════════════════════════════════════╝
 
 ────────────────────────────────────────────────────────────────────────
@@ -38,3 +38,4 @@ jupyter==1.0.0        --> interactive development in notebooks
 ║          OR USE --> pip install -r requirements.txt ║
 ╚════════════════════════════════════════════════════╝
 To get the same environment I used
+

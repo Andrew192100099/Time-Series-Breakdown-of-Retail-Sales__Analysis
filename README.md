@@ -11,13 +11,13 @@ But beneath those rows and columns hid a powerful story of customer demand, seas
 
 **I began piecing together the puzzle:**
 
-*📅 Dates became my timeline.*
+***📅 Dates became my timeline.***
 
-*🏬 Stores revealed differences in performance.*
+***🏬 Stores revealed differences in performance.***
 
-*🛒 Features added hidden context like holidays and fuel prices.*
+***🛒 Features added hidden context like holidays and fuel prices.***
 
-*💵 Weekly Sales became the heartbeat I had to track and forecast.*
+***💵 Weekly Sales became the heartbeat I had to track and forecast.***
 
 With each step, the numbers started talking. Trends appeared. Patterns whispered secrets. And slowly, the retail landscape unfolded before my eyes.
 _____________________________

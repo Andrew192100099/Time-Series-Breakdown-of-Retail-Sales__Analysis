@@ -1,5 +1,5 @@
 ╔════════════════════════════════════════════════════════════════════╗
-║                   Time Series Breakdown of Retail Sales       	║
+║                   Time Series Breakdown of Retail Sales       	 ║
 ╚════════════════════════════════════════════════════════════════════╝
 
 Tagline: From raw weekly sales → to actionable retail forecasting insights.
@@ -76,5 +76,6 @@ CONTACT
 ────────────────────────────────────────────────────────────────────────
 Questions, suggestions or collaborations —  
 📧 192100099@ecu.edu.eg || andrewwageh333@gmail.com
+
 
 

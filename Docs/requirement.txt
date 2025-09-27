@@ -1,0 +1,40 @@
+╔════════════════════════════════════════════════════════════════════╗
+║                  Project: Time Series Breakdown of Retail Sales     ║
+║                 Description: Required Python packages for cleaning, ║
+║              analyzing, visualizing, and forecasting sales trends.  ║
+║                                                                     ║
+║ Author: Andrew Wageh Fahmy                                          ║
+╚════════════════════════════════════════════════════════════════════╝
+
+────────────────────────────────────────────────────────────────────────
+ Data analysis & manipulation
+────────────────────────────────────────────────────────────────────────
+pandas==2.1.0
+numpy==1.25.2
+
+────────────────────────────────────────────────────────────────────────
+ Visualization
+────────────────────────────────────────────────────────────────────────
+matplotlib==3.7.2
+seaborn==0.12.2
+
+────────────────────────────────────────────────────────────────────────
+ Time series & forecasting
+────────────────────────────────────────────────────────────────────────
+statsmodels==0.14.0   --> used for time series decomposition & smoothing
+scipy==1.11.2         --> supports statistical operations
+
+────────────────────────────────────────────────────────────────────────
+ Utilities
+────────────────────────────────────────────────────────────────────────
+tqdm==4.66.1          --> shows a live progress bar during processing
+
+────────────────────────────────────────────────────────────────────────
+ Development / Notebooks
+────────────────────────────────────────────────────────────────────────
+jupyter==1.0.0        --> interactive development in notebooks
+
+╔════════════════════════════════════════════════════╗
+║          OR USE --> pip install -r requirements.txt ║
+╚════════════════════════════════════════════════════╝
+To get the same environment I used
